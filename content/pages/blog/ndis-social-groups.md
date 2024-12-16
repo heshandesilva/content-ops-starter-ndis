@@ -3,13 +3,11 @@ type: PostLayout
 title: How to Join NDIS Social Groups Easily
 date: '2024-12-16'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: How to Join NDIS Social Groups Easily
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-henri-mathieu-8348624.jpg
+  altText: How to Join NDIS Social Groups Easily
   elementId: ''
   styles:
     self:
@@ -55,10 +53,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: How to Join NDIS Social Groups Easily
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/pexels-henri-mathieu-8348624.jpg
 colors: bg-light-fg-dark
 styles:
   self:
