@@ -4,12 +4,16 @@ title: Understanding NDIS Early Intervention Benefits
 date: '2024-12-16'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover the impact of NDIS early intervention programs, supporting
+  development, inclusion, and independence for individuals with disabilities.
+  Learn more now.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-yankrukov-8613319.jpg
+  altText: >-
+    Discover the impact of NDIS early intervention programs, supporting
+    development, inclusion, and independence for individuals with disabilities.
+    Learn more now.
   elementId: ''
   styles:
     self:
@@ -56,9 +60,13 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Understanding NDIS Early Intervention Benefits
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaDescription: >-
+    Discover the impact of NDIS early intervention programs, supporting
+    development, inclusion, and independence for individuals with disabilities.
+    Learn more now.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-yankrukov-8613319.jpg
 colors: bg-light-fg-dark
 styles:
   self:
