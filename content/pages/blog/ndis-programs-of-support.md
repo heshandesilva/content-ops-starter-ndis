@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Navigate NDIS programs of support, designed to enhance well-being, skill
+    development, and social inclusion for individuals with disabilities.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
