@@ -8,8 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/photo-1536010305525-f7aa0834e2c7.jpeg
+  altText: Enhancing Lives Through NDIS Community Support
   elementId: ''
   styles:
     self:
