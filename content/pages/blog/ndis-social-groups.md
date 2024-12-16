@@ -3,7 +3,9 @@ type: PostLayout
 title: How to Join NDIS Social Groups Easily
 date: '2024-12-16'
 author: content/data/person1.json
-excerpt: How to Join NDIS Social Groups Easily
+excerpt: >-
+  Discover how NDIS social groups foster inclusion, skill-building, and mental
+  well-being. Learn eligibility and steps to join these enriching programs.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-henri-mathieu-8348624.jpg
