@@ -59,7 +59,7 @@ seo:
   metaDescription: >-
     Understand NDIS support options for adults, enhancing independence and
     engagement through tailored plans, coordination, and diverse services.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
