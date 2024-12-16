@@ -63,7 +63,10 @@ seo:
   metaTitle: >-
     Empowering Connections: Social Groups for Young Adults with Disabilities in
     Australia
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Explore social groups for young adults with disabilities in Australia,
+    fostering friendships, personal growth, and mental well-being. Find your
+    community today.
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/pexels-cottonbro-4880395.jpg
