@@ -63,6 +63,7 @@ seo:
     independence today.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/photo-1569937714388-d0ff8cbf687b.jpeg
 colors: bg-light-fg-dark
 styles:
   self:
