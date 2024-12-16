@@ -66,6 +66,7 @@ seo:
     Learn more now.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-yankrukov-8613319.jpg
 colors: bg-light-fg-dark
 styles:
   self:
