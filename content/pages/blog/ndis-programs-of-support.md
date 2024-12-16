@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Navigating NDIS Programs Of Support for Better Outcomes
   metaDescription: >-
     Navigate NDIS programs of support, designed to enhance well-being, skill
     development, and social inclusion for individuals with disabilities.
