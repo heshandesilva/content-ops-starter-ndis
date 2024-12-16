@@ -10,7 +10,7 @@ excerpt: >-
   Australia
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-cottonbro-4880395.jpg
   altText: Thumbnail
   elementId: ''
   styles:
