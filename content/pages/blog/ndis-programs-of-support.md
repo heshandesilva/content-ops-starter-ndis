@@ -59,7 +59,7 @@ seo:
   metaDescription: >-
     Navigate NDIS programs of support, designed to enhance well-being, skill
     development, and social inclusion for individuals with disabilities.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
