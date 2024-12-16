@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: NDIS Support Options for Adults Explained
   metaDescription: >-
     Understand NDIS support options for adults, enhancing independence and
     engagement through tailored plans, coordination, and diverse services.
