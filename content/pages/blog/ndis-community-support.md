@@ -56,7 +56,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Enhancing Lives Through NDIS Community Support
   metaDescription: >-
     Explore NDIS community support services, promoting inclusion, independence,
     and quality of life for individuals with disabilities. Learn about benefits
