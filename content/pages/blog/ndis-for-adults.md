@@ -61,6 +61,7 @@ seo:
     engagement through tailored plans, coordination, and diverse services.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-sheep-556180-2532091.jpg
 colors: bg-light-fg-dark
 styles:
   self:
