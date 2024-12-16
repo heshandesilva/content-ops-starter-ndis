@@ -57,7 +57,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover the benefits of disability camps offering inclusivity,
+    skill-building, and therapeutic activities. Create friendships and promote
+    independence today.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
