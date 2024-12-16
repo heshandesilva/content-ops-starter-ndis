@@ -59,7 +59,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: >-
+    Empowering Connections: Social Groups for Young Adults with Disabilities in
+    Australia
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
