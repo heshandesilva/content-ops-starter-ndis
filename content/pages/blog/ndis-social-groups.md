@@ -59,7 +59,7 @@ seo:
   metaDescription: >-
     Discover how NDIS social groups foster inclusion, skill-building, and mental
     well-being. Learn eligibility and steps to join these enriching programs.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-henri-mathieu-8348624.jpg
 colors: bg-light-fg-dark
