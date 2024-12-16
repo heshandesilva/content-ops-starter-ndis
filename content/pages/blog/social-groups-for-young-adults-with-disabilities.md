@@ -6,8 +6,9 @@ title: >-
 date: '2024-12-16'
 author: content/data/person1.json
 excerpt: >-
-  Empowering Connections: Social Groups for Young Adults with Disabilities in
-  Australia
+  Explore social groups for young adults with disabilities in Australia,
+  fostering friendships, personal growth, and mental well-being. Find your
+  community today.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-cottonbro-4880395.jpg
