@@ -10,7 +10,10 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-yankrukov-8613319.jpg
-  altText: Thumbnail
+  altText: >-
+    Discover the impact of NDIS early intervention programs, supporting
+    development, inclusion, and independence for individuals with disabilities.
+    Learn more now.
   elementId: ''
   styles:
     self:
