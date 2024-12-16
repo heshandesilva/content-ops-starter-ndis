@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-sheep-556180-2532091.jpg
-  altText: Thumbnail
+  altText: NDIS Support Options for Adults Explained
   elementId: ''
   styles:
     self:
