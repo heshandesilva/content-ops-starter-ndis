@@ -9,7 +9,7 @@ excerpt: >-
   Learn more now.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-yankrukov-8613319.jpg
   altText: Thumbnail
   elementId: ''
   styles:
