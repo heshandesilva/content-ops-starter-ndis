@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Understanding NDIS Home Support in Australia
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
