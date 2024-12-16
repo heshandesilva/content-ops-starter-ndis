@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/photo-1581812426592-49ab7fc057d0.jpeg
-  altText: Thumbnail
+  altText: Navigating NDIS Programs Of Support for Better Outcomes
   elementId: ''
   styles:
     self:
