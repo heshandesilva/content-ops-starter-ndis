@@ -57,7 +57,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Understanding NDIS Home Support in Australia
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Learn about NDIS home support services in Australia, enhancing independence
+    and social inclusion for individuals with disabilities. Access tailored
+    assistance.
   addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-cliff-booth-4057864.jpg
