@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: Understanding NDIS Home Support in Australia
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
