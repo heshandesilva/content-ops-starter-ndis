@@ -8,8 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-sheep-556180-2532091.jpg
+  altText: NDIS Support Options for Adults Explained
   elementId: ''
   styles:
     self:
