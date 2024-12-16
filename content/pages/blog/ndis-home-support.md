@@ -7,7 +7,7 @@ excerpt: Understanding NDIS Home Support in Australia
 featuredImage:
   type: ImageBlock
   url: /images/pexels-cliff-booth-4057864.jpg
-  altText: Thumbnail
+  altText: Understanding NDIS Home Support in Australia
   elementId: ''
   styles:
     self:
