@@ -63,6 +63,7 @@ seo:
     today.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/photo-1536010305525-f7aa0834e2c7.jpeg
 colors: bg-light-fg-dark
 styles:
   self:
