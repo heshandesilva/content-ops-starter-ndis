@@ -4,8 +4,8 @@ title: NDIS Support Options for Adults Explained
 date: '2024-12-16'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Understand NDIS support options for adults, enhancing independence and
+  engagement through tailored plans, coordination, and diverse services.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-sheep-556180-2532091.jpg
@@ -55,10 +55,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  metaTitle: NDIS Support Options for Adults Explained
+  metaDescription: >-
+    Understand NDIS support options for adults, enhancing independence and
+    engagement through tailored plans, coordination, and diverse services.
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-sheep-556180-2532091.jpg
 colors: bg-light-fg-dark
 styles:
   self:
