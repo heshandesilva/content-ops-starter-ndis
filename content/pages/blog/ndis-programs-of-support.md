@@ -4,8 +4,8 @@ title: Navigating NDIS Programs Of Support for Better Outcomes
 date: '2024-12-16'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Navigate NDIS programs of support, designed to enhance well-being, skill
+  development, and social inclusion for individuals with disabilities.
 featuredImage:
   type: ImageBlock
   url: /images/photo-1581812426592-49ab7fc057d0.jpeg
