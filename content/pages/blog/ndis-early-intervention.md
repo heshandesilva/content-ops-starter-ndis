@@ -60,7 +60,10 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Understanding NDIS Early Intervention Benefits
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Discover the impact of NDIS early intervention programs, supporting
+    development, inclusion, and independence for individuals with disabilities.
+    Learn more now.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
