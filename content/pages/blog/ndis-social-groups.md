@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-henri-mathieu-8348624.jpg
-  altText: Thumbnail
+  altText: How to Join NDIS Social Groups Easily
   elementId: ''
   styles:
     self:
