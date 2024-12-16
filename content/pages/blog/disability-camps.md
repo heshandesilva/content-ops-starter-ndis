@@ -4,8 +4,9 @@ title: Exploring the Benefits of Disability Camps
 date: '2024-12-16'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Discover the benefits of disability camps offering inclusivity,
+  skill-building, and therapeutic activities. Create friendships and promote
+  independence today.
 featuredImage:
   type: ImageBlock
   url: /images/photo-1569937714388-d0ff8cbf687b.jpeg
