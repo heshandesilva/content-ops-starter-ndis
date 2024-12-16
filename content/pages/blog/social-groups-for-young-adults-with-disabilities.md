@@ -67,7 +67,7 @@ seo:
     Explore social groups for young adults with disabilities in Australia,
     fostering friendships, personal growth, and mental well-being. Find your
     community today.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-cottonbro-4880395.jpg
 colors: bg-light-fg-dark
