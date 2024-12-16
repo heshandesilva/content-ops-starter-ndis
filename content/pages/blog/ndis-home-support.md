@@ -57,6 +57,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-cliff-booth-4057864.jpg
 colors: bg-light-fg-dark
 styles:
   self:
