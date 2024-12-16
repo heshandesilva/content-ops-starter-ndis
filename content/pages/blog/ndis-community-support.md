@@ -4,8 +4,9 @@ title: Enhancing Lives Through NDIS Community Support
 date: '2024-12-16'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Explore NDIS community support services, promoting inclusion, independence,
+  and quality of life for individuals with disabilities. Learn about benefits
+  today.
 featuredImage:
   type: ImageBlock
   url: /images/photo-1536010305525-f7aa0834e2c7.jpeg
