@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/photo-1536010305525-f7aa0834e2c7.jpeg
-  altText: Thumbnail
+  altText: Enhancing Lives Through NDIS Community Support
   elementId: ''
   styles:
     self:
