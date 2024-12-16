@@ -61,7 +61,7 @@ seo:
     Explore NDIS community support services, promoting inclusion, independence,
     and quality of life for individuals with disabilities. Learn about benefits
     today.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
