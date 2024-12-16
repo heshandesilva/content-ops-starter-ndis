@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/photo-1569937714388-d0ff8cbf687b.jpeg
-  altText: Thumbnail
+  altText: Exploring the Benefits of Disability Camps
   elementId: ''
   styles:
     self:
