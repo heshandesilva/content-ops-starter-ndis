@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: Understanding NDIS Home Support in Australia
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/pexels-cliff-booth-4057864.jpg
   altText: Thumbnail
   elementId: ''
   styles:
