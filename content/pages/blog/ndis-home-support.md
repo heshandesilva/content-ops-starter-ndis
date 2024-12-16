@@ -3,7 +3,10 @@ type: PostLayout
 title: Understanding NDIS Home Support in Australia
 date: '2024-12-16'
 author: content/data/person1.json
-excerpt: Understanding NDIS Home Support in Australia
+excerpt: >-
+  Learn about NDIS home support services in Australia, enhancing independence
+  and social inclusion for individuals with disabilities. Access tailored
+  assistance.
 featuredImage:
   type: ImageBlock
   url: /images/pexels-cliff-booth-4057864.jpg
