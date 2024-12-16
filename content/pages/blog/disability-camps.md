@@ -61,7 +61,7 @@ seo:
     Discover the benefits of disability camps offering inclusivity,
     skill-building, and therapeutic activities. Create friendships and promote
     independence today.
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
