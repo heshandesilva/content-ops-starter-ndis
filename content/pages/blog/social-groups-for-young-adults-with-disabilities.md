@@ -65,6 +65,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/pexels-cottonbro-4880395.jpg
 colors: bg-light-fg-dark
 styles:
   self:
