@@ -56,7 +56,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Exploring the Benefits of Disability Camps
   metaDescription: >-
     Discover the benefits of disability camps offering inclusivity,
     skill-building, and therapeutic activities. Create friendships and promote
