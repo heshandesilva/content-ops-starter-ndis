@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Understanding NDIS Early Intervention Benefits
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
