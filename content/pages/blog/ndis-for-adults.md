@@ -56,7 +56,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    Understand NDIS support options for adults, enhancing independence and
+    engagement through tailored plans, coordination, and diverse services.
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
