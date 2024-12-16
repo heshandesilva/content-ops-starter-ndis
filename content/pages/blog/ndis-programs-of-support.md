@@ -61,6 +61,7 @@ seo:
     development, and social inclusion for individuals with disabilities.
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/photo-1581812426592-49ab7fc057d0.jpeg
 colors: bg-light-fg-dark
 styles:
   self:
