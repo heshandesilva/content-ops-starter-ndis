@@ -3,9 +3,7 @@ type: PostLayout
 title: Understanding NDIS Home Support in Australia
 date: '2024-12-16'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Understanding NDIS Home Support in Australia
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
