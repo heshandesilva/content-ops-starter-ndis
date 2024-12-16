@@ -6,12 +6,14 @@ title: >-
 date: '2024-12-16'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Empowering Connections: Social Groups for Young Adults with Disabilities in
+  Australia
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-cottonbro-4880395.jpg
+  altText: >-
+    Empowering Connections: Social Groups for Young Adults with Disabilities in
+    Australia
   elementId: ''
   styles:
     self:
@@ -57,10 +59,13 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: >-
+    Empowering Connections: Social Groups for Young Adults with Disabilities in
+    Australia
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/pexels-cottonbro-4880395.jpg
 colors: bg-light-fg-dark
 styles:
   self:
