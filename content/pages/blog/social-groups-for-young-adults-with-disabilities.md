@@ -11,7 +11,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-cottonbro-4880395.jpg
-  altText: Thumbnail
+  altText: >-
+    Empowering Connections: Social Groups for Young Adults with Disabilities in
+    Australia
   elementId: ''
   styles:
     self:
